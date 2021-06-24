@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "name": "nodejs_curso",
+  "version": "1.0.0",
+  "description": "un curso de nodejs",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GbEnrique/practica-nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "aprendiendo",
+    "español"
+  ],
+  "author": "gbenrique",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GbEnrique/practica-nodejs/issues"
+  },
+  "homepage": "https://github.com/GbEnrique/practica-nodejs#readme"
+}
